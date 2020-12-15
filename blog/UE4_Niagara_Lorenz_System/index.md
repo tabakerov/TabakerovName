@@ -1,5 +1,7 @@
 # Lorenz System using Niagara FX (Unreal Engine 4.26)
 
+_This is not a tutorial on how to start work with Niagara FX, that knowledge is expected for this tutorial and can be learned [there](https://docs.unrealengine.com/en-US/RenderingAndGraphics/Niagara/QuickStart/index.html). This tutorial is about implementing Lorenz System using Niagara._
+
 ## What is Lorenz System? 
 
 There are some math constructs which provide an interesting feature - if there is a point (anywhere) in a space and you apply some formulas to this point's coordinates then you'll get a new coordinate where you're moving the point. Thus, step by step any (almost) point will move to an area where it will be retained in closed orbit. That's how I understand strange attractors (and Lorenz System in particular). 
@@ -32,4 +34,6 @@ Given it’s possible to get current particle’s position with `Particle.Positi
 Particles.Position + (Particles.Random) * User.dT * Engine.DeltaTime * float3(User.Sigma*(Particles.Position.y-Particles.Position.x), User.Rho * Particles.Position.x-Particles.Position.y-Particles.Position.x * Particles.Position.z, Particles.Position.x * Particles.Position.y-User.Beta * Particles.Position.z)
 ```
 
-What's left is to decide how this thing should look. For me there are two main options 
+What's left is to decide how this thing should look. For me there are two main options:
+1. Trails - nice looking strands using Ribbon Render on a secondary emitter. Allows to use less particles, control colors along strands
+2. Objects - use simple small low-poly spheres with Mesh Render. As meshes they works fine with DoF and motion blur (I was not able to make DoF effect to work fine with Ribbon Render)
