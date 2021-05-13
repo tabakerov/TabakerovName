@@ -1,8 +1,10 @@
 # Separate SSH keys for separate hosts
 
+*May 13, 2021*
+
 It is possible to use a single SSH key for multilpe remote hosts, but as soon as you start to think about this approach you'll find a lot of issues.
 
-That's why you need `config` file in your `~/.ssh` folder - and it works for Windows 10 too. `config` file format is not that complicated:
+That's why you need `config` file in your `~/.ssh` folder - and it works for MacOs, Linux and Windows 10. `config` file format is not that complicated:
 
 ```
 Host hostname_a
