@@ -1,6 +1,6 @@
 # Hello world
 
-I write texts, and sometimes compilers do not find errors in them ¯\\_(ツ)_/¯
+I write texts, and sometimes compilers do not find errors in them ¯＼\_(ツ)_/¯
 
 Here some places in internet where you can find me:
 - [twitter](https://twitter.com/dmitrytabakerov)
