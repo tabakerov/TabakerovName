@@ -14,5 +14,8 @@ Here some places in internet where you can find me:
 # Blog
 *actually, just notes for thing I always forget*
 
+## [Automate things with Docker and Github Actions](/blog/automate_with_docker_and_github_actions)
+[Let robots do all boring stuff](/blog/automate_with_docker_and_github_actions)
+
 ## [SSH config](/blog/ssh-config)
 [How to configure config file for ssh and be able to use different ssh keys for different hosts](/blog/ssh-config)
