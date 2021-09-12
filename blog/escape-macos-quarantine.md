@@ -8,6 +8,6 @@ If you're using macOS and have an app you downloaded from internet, and you see 
 
 **macOS cannot verify that this app is free from malware.**
 
-And if you need to run it anyway, you need to remove `com.apple.quarantine` from the file:
+And if you need to run it anyway, you need to remove `com.apple.quarantine` attribute from the file:
 
 `xattr -d com.apple.quarantine dotnet-sdk-6.0.100-rc.1.21460.8-osx-x64.pkg`
