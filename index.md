@@ -14,6 +14,9 @@ Here some places in internet where you can find me:
 # Blog
 *actually, just notes for thing I always forget*
 
+## [How to run an app that macOS doesn't allow to](/blog/escape-macos-quarantine)
+[using terminal](/blog/escape-macos-quarantine)
+
 ## [Automate things with Docker and Github Actions](/blog/automate_with_docker_and_github_actions)
 [Let robots do all boring stuff](/blog/automate_with_docker_and_github_actions)
 
