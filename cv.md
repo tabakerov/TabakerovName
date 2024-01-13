@@ -1,7 +1,7 @@
 # Dmitry Tabakerov
 
-- **Email:** [job@tabakerov.name]
-- **LinkedIn:** [https://www.linkedin.com/in/tabakerov/]
+- **Email:** [job@tabakerov.name](mailto:job@tabakerov.name)
+- **LinkedIn:** [https://www.linkedin.com/in/tabakerov/](https://www.linkedin.com/in/tabakerov/)
 
 ## Overview
 A versatile and experienced software developer with a strong background in diverse programming languages and technologies. Proven expertise in developing robust solutions in both enterprise and cloud environments, with a special focus on Go, Python, and .NET frameworks. Committed to delivering high-quality, scalable, and maintainable code, adept at working in fast-paced settings, and always eager to embrace new challenges and technologies.
