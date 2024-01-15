@@ -14,39 +14,39 @@ A versatile and experienced software developer with a strong background in diver
 ## Professional Experience
 
 ### i2x
-- **Position:** Senior Go Developer
+- **Position:** Senior Developer
 - **Duration:** 2021 – Present
 - **Responsibilities:**
-  - Developing and maintaining microservices for AWS cloud infrastructure.
-  - Utilizing Docker, Terraform, and GitHub Actions for deployment and operations.
-  - Supporting analytics reports in PL/SQL.
-  - Maintaining legacy projects in Python.
+  - Developing and maintaining microservices using Go for AWS cloud infrastructure
+  - Utilizing Docker, Terraform, and GitHub Actions for deployment and operations
+  - Supporting analytics reports in PL/SQL
+  - Maintaining legacy projects in Python
 
 ### Globant
-- **Position:** Senior Go Developer
+- **Position:** Senior Developer
 - **Duration:** 2018 – 2021
 - **Responsibilities:**
-  - Developed microservices for Amazon Cloud infrastructure.
+  - Developed microservices for Amazon Cloud infrastructure using Golang
+  - Worked on a project for an automobile manufacturer, creating an interactive product 3D visualization using WebGL, React, and Three.js
 
 ### Itransition
 - **Position:** .NET / Python Developer
 - **Duration:** 2013 – 2018
 - **Responsibilities:**
-  - Initially worked on Python projects using Django and Flask.
-  - Transitioned to .NET projects in C#.
-  - Responsible for migrating .NET projects to .Net Core and cloud migration to Azure.
+  - Worked on Python projects using Django and Flask
+  - Responsible for migrating .NET projects to .Net Core and migration to Azure cloud
 
 ### Cubincup
 - **Position:** Unity 3D Game Developer
 - **Duration:** 2011 – 2013
 - **Responsibilities:**
-  - Developed games on the Unity 3D platform.
+  - Developed games on the Unity 3D platform
 
 ## Skills
-- **Programming Languages:** Go, Python, C#, PL/SQL, F#, Rust (basic knowledge), C++ (in context of Unreal Engine 5).
-- **Frameworks and Technologies:** Django, Flask, .NET, .Net Core, Unity 3D, Defold.
-- **Tools and Platforms:** Azure, Amazon Cloud Services, Docker, Terraform, GitHub Actions, Blender 3D.
-- **Additional Skills:** 3D graphics (Blender 3D), game development.
+- **Programming Languages:** Go, Python, C#, PL/SQL, F#, Rust (basic knowledge), C++ (in context of Unreal Engine 5)
+- **Frameworks and Technologies:** Django, Flask, .NET, .Net Core, Unity 3D, Defold
+- **Tools and Platforms:** Azure, Amazon Cloud Services, Docker, Terraform, GitHub Actions, Blender 3D
+- **Additional Skills:** 3D graphics (Blender 3D), game development
 
 ## Personal Qualities
 - Responsible, flexible in problem-solving approaches, quick to learn new technologies, able to work in a team and independently.
