@@ -15,7 +15,7 @@ A versatile and experienced software developer with a strong background in diver
 
 ### i2x
 - **Position:** Senior Developer
-- **Duration:** 2021 – Present
+- **Duration:** 2021 – 2024
 - **Responsibilities:**
   - Developing and maintaining microservices using Go for AWS cloud infrastructure
   - Utilizing Docker, Terraform, and GitHub Actions for deployment and operations
@@ -44,9 +44,9 @@ A versatile and experienced software developer with a strong background in diver
 
 ## Skills
 - **Programming Languages:** Go, Python, C#, PL/SQL, F#, Rust (basic knowledge), C++ (in context of Unreal Engine 5)
-- **Frameworks and Technologies:** Django, Flask, .NET, .Net Core, Unity 3D, Defold
-- **Tools and Platforms:** Azure, Amazon Cloud Services, Docker, Terraform, GitHub Actions, Blender 3D
-- **Additional Skills:** 3D graphics (Blender 3D), game development
+- **Frameworks and Technologies:** Django, Flask, .NET, .Net Core, Unity 3D, Unreal Engine 5, Defold
+- **Tools and Platforms:** Azure, Amazon Cloud Services, Docker, Terraform, GitHub Actions, Blender 3D, Houdini
+- **Additional Skills:** 3D graphics, game development
 
 ## Personal Qualities
 - Responsible, flexible in problem-solving approaches, quick to learn new technologies, able to work in a team and independently.
