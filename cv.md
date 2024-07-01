@@ -44,8 +44,7 @@ A versatile and experienced software developer with a strong background in diver
 
 ## Skills
 - **Programming Languages:** Go, Python, C#, PL/SQL, F#, C++ (in context of Unreal Engine 5)
-- **Frameworks and Technologies:** Django, Flask, .NET, .Net Core, Unity 3D, Unreal Engine 5, Defold
-- **Tools and Platforms:** Azure, Amazon Cloud Services, Docker, Terraform, GitHub Actions, Blender 3D, Houdini
+- **Frameworks, Technologies, Tools and Platforms:** Amazon Cloud Services, Docker, Azure, GitHub Actions, Terraform, .NET, Unity 3D, Unreal Engine 5, Defold, Blender 3D, Houdini
 - **Additional Skills:** 3D graphics, game development
 
 ## Personal Qualities
